@@ -3,13 +3,13 @@
 //Dalam file _menunya.js
 
 //『 Utama 』 //
-global.owner = ['6285742344873']  // isi jika perlu
+global.owner = ['6285865462352']  // isi jika perlu
 global.mods = ['']   // isi jika perlu
 global.prems = ['']  // isi jika perlu
 
 //Isi dengan nama dan nomor lu//
-global.nameowner = 'IyannKz' // isi nama kalian bebas
-global.numberowner = '6285742344873' // isi nomor kalian dengan awalan seperti di contoh 
+global.nameowner = 'ARIF' // isi nama kalian bebas
+global.numberowner = '6285865462352' // isi nomor kalian dengan awalan seperti di contoh 
 global.instagram = 'https://instagram.com/prm2.0' // isi Instagram kalian harus link
 global.github = 'https://github.com/IyannKz' // gausah di isi juga gpp bro
 global.dana = '085742344873' // isi dengan nomor dana yg kamu punya 
@@ -17,7 +17,7 @@ global.pulsa = '085742344873' // isi dengan nomor pulsa hp kalian
 global.gopay = '085742344873'
 
 //Name Bot & Grouplink//
-global.namebot = 'Raiden - Bot'
+global.namebot = 'RIF- Bot'
 global.gc = 'https://chat.whatsapp.com/ITiCuritEfx60TOHTMFgkL'
 global.web = 'https://myblogxyz.netlify.app' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
@@ -27,11 +27,11 @@ global.fotonya1 = 'https://telegra.ph/file/7fc21e3924e37a3dbad30.jpg'
 global.fotonya2 = 'https://telegra.ph/file/7fc21e3924e37a3dbad30.jpg' 
 global.lolkey = 'rey2k22' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '© Raiden - Bot'
+global.wm = '© RIF - Bot'
 global.watermark = wm
-global.wm2 = '© Raiden - Bot'
-global.wm3 = '© Raiden - Bot'
-global.wm4 = '© Raiden - Bot'
+global.wm2 = '© RIF - Bot'
+global.wm3 = '© RIF - Bot'
+global.wm4 = '© RIF - Bot'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/7fc21e3924e37a3dbad30.jpg'
