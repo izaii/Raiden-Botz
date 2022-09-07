@@ -4,20 +4,20 @@
 
 //『 Utama 』 //
 global.owner = ['6285865462352']  // isi jika perlu
-global.mods = ['']   // isi jika perlu
-global.prems = ['']  // isi jika perlu
+global.mods = ['6285865462352']   // isi jika perlu
+global.prems = ['6285865462352']  // isi jika perlu
 
 //Isi dengan nama dan nomor lu//
 global.nameowner = 'ARIF' // isi nama kalian bebas
 global.numberowner = '6285865462352' // isi nomor kalian dengan awalan seperti di contoh 
 global.instagram = 'https://instagram.com/prm2.0' // isi Instagram kalian harus link
 global.github = 'https://github.com/IyannKz' // gausah di isi juga gpp bro
-global.dana = '085742344873' // isi dengan nomor dana yg kamu punya 
-global.pulsa = '085742344873' // isi dengan nomor pulsa hp kalian
-global.gopay = '085742344873'
+global.dana = '6285865462352' // isi dengan nomor dana yg kamu punya 
+global.pulsa = '62895808168700' // isi dengan nomor pulsa hp kalian
+global.gopay = '6285865462352'
 
 //Name Bot & Grouplink//
-global.namebot = 'RIF- Bot'
+global.namebot = 'Faiz Bot'
 global.gc = 'https://chat.whatsapp.com/ITiCuritEfx60TOHTMFgkL'
 global.web = 'https://myblogxyz.netlify.app' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
@@ -27,22 +27,22 @@ global.fotonya1 = 'https://telegra.ph/file/7fc21e3924e37a3dbad30.jpg'
 global.fotonya2 = 'https://telegra.ph/file/7fc21e3924e37a3dbad30.jpg' 
 global.lolkey = 'rey2k22' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '© RIF - Bot'
+global.wm = '© Faiz - Bot'
 global.watermark = wm
-global.wm2 = '© RIF - Bot'
-global.wm3 = '© RIF - Bot'
-global.wm4 = '© RIF - Bot'
+global.wm2 = '© Faiz - Bot'
+global.wm3 = '© Faiz - Bot'
+global.wm4 = '© Faiz - Bot'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/7fc21e3924e37a3dbad30.jpg'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&fillColor1Color=%23f2aa4c&fillColor2Color=%23f2aa4c&fillColor3Color=%23f2aa4c&fillColor4Color=%23f2aa4c&fillColor5Color=%23f2aa4c&fillColor6Color=%23f2aa4c&fillColor7Color=%23f2aa4c&fillColor8Color=%23f2aa4c&fillColor9Color=%23f2aa4c&fillColor10Color=%23f2aa4c&fillOutlineColor=%23f2aa4c&fillOutline2Color=%23f2aa4c&backgroundColor=%23101820&text='
 global.wait = '_*Tunggu sedang di proses...*_'
-global.eror = '_*Server Error*_'
+global.eror = '_*Fitur Sedang Eror!!,Hubungi Owner!*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '*Stiker sedang dibuat...*'
 global.packname = 'Made with'
-global.author = 'Bot WhatsApp\nRaiden - Bot'
+global.author = 'Faiz Slebwww'
 
 //Apikey Setting//
 global.APIs = { // API Prefix
