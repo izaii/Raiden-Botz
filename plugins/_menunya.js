@@ -180,7 +180,7 @@ const ftroli = {
                             itemCount : 9999999999999,
                             status: 1,
                             surface : 1,
-                            message: 'IyannKz Official',
+                            message: 'FAIZ Official',
                             orderTitle: 'MENU',
                             thumbnail: await (await fetch('https://telegra.ph/file/7fc21e3924e37a3dbad30.jpg')).buffer(),
                             sellerJid: '0@s.whatsapp.net'
@@ -193,8 +193,8 @@ await conn.sendButtonImg(m.chat, await (await fetch('https://telegra.ph/file
       contextInfo: { //forwardingScore: 99999, isForwarded: true,  
           externalAdReply: {  showAdAttribution: true, 
               title: 'Bot Wahatsapp Multi Device',  
-              body: '© Raiden - MD', 
-              description: 'Made With ❤️ IyannKz', 
+              body: '© Faiz - MD', 
+              description: 'Made With ❤️ Arif', 
               mediaType: 2,  
             thumbnail: await (await fetch('https://telegra.ph/file/7fc21e3924e37a3dbad30.jpg')).buffer(), 
            mediaUrl: `https://www.facebook.com/tio.permana.50999` 
