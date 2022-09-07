@@ -1,10 +1,24 @@
-let fetch = require('node-fetch')
-let handler = async (m, { text }) => {
-m.reply('=> global.DATABASE.data.users[m.quoted.sender].limit = 100')
+let { MessageType } = require('@adiwajshing/baileys')
 
+let handler = async (m, { conn }) => {
+    let user = global.db.data.users[m.sender]
+        conn.reply(m.chat, `*Succes !*`, m)
+        global.db.data.users[m.sender].limit = 10
+        
 }
-handler.help = ['cheatlimit']
-handler.tags = ['owner']
-handler.command = /^cheatlimit$/i
+handler.help = ['modlimit']
+handler.tags = ['premium']
+handler.command = /^(modlimit)$/i
+handler.owner = false
+handler.mods = false
+handler.premium = true
+handler.group = false
+handler.private = false
+
+handler.admin = false
+handler.botAdmin = false
+
+handler.fail = null
+handler.money = 0
 
 module.exports = handler
