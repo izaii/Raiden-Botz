@@ -3,13 +3,13 @@
 //Dalam file _menunya.js
 
 //『 Utama 』 //
-global.owner = ['6285865462352']  // isi jika perlu
+global.owner = ['6285865462352','6285700544061']  // isi jika perlu
 global.mods = ['6285865462352']   // isi jika perlu
 global.prems = ['6285865462352']  // isi jika perlu
 
 //Isi dengan nama dan nomor lu//
-global.nameowner = 'ARIF' // isi nama kalian bebas
-global.numberowner = '6285865462352' // isi nomor kalian dengan awalan seperti di contoh 
+global.nameowner = 'ARIF','IBRADAVIN' // isi nama kalian bebas
+global.numberowner = '6285865462352','6285700544061' // isi nomor kalian dengan awalan seperti di contoh 
 global.instagram = 'https://instagram.com/prm2.0' // isi Instagram kalian harus link
 global.github = 'https://github.com/IyannKz' // gausah di isi juga gpp bro
 global.dana = '6285865462352' // isi dengan nomor dana yg kamu punya 
